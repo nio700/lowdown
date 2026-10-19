@@ -1,0 +1,594 @@
+{
+ "updated": "2026-10-19T21:30:00+03:00",
+ "stories": [
+  {
+   "cat": "gear",
+   "title": "Bose's noise-cancelling earbuds that never need charging",
+   "dek": "They plug into USB-C and take power from your phone or laptop, so there's no battery to run flat. They're sold out in most places.",
+   "spec": "£99 / $99 · USB-C wired ANC",
+   "why": "Noise cancelling without ever needing to charge is handy for flights and long days.",
+   "points": [
+    "Plug into USB-C and draw power from your phone or laptop, so there's no battery.",
+    "Active noise cancelling with a three-button inline remote.",
+    "£99 / $99, in black, white or mint. Sold out in many places."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/earbuds/i-tried-boses-new-anc-earbuds-with-a-battery-that-never-runs-out-heres-why-theyre-sold-out-in-most-places",
+   "date": "2026-10-17",
+   "id": "bose-wired-anc",
+   "photo": "https://cdn.mos.cms.futurecdn.net/FmrhYzeyrSFwdKQVbjimwa-2560-80.jpg"
+  },
+  {
+   "cat": "news",
+   "title": "Lula and Flávio Bolsonaro clash in Brazil's first run-off debate",
+   "dek": "The two candidates traded attacks ahead of the 25 October presidential run-off.",
+   "points": [
+    "Lula and Flávio Bolsonaro met in their first run-off debate.",
+    "The run-off vote is on 25 October."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+   "date": "2026-10-19",
+   "id": "brazil-runoff-debate",
+   "photo": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3NT9QY__v1__HighRes__BrazilElectionRunoffDebate-1792377876.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "cyprus",
+   "title": "Cyprus may avoid the worst of a record El Niño",
+   "dek": "Forecasters expect a very strong El Niño this winter, but Cyprus looks likely to escape its harshest effects.",
+   "points": [
+    "Forecasters expect a very strong El Niño over winter 2026–27.",
+    "Cyprus looks likely to escape its worst effects."
+   ],
+   "source": "Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/10/18/cyprus-could-escape-worst-of-record-breaking-el-nino",
+   "date": "2026-10-18",
+   "id": "cyprus-el-nino",
+   "photo": "https://cyprus-mail.com/wp-content/uploads/2026/10/feature-theo-main-A-storm-over-Nicosia-at-the-beginning-of-the-month-Reuters.jpg"
+  },
+  {
+   "cat": "cyprus",
+   "title": "What Cyprus's new cost-of-living package actually saves you",
+   "dek": "The €70m package cuts heating oil tax, extends electricity subsidies and zeroes VAT on some essentials. Economists say it barely touches energy bills, with inflation at 5.2%.",
+   "spec": "Heating oil tax 7.4c → 2.1c/L from 1 Nov",
+   "why": "It shows what help you actually get with bills this winter, and how little it covers.",
+   "points": [
+    "A €70 million package from the government.",
+    "Heating oil tax falls from 7.4 to 2.1 cents a litre from 1 November, worth about €32 over a winter.",
+    "Electricity subsidies extended, zero VAT on some essentials, and lower VAT on home solar.",
+    "Inflation in Cyprus was 5.2% in August, third highest in the EU."
+   ],
+   "source": "Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/10/11/cyprus-cost-of-living-relief-fails-to-tackle-high-energy-costs",
+   "date": "2026-10-11",
+   "id": "cyprus-relief-package",
+   "photo": "https://cyprus-mail.com/wp-content/uploads/2026/10/elias-main-1.jpg"
+  },
+  {
+   "cat": "cars",
+   "title": "DeLorean is entering an electric flying-car racing series",
+   "dek": "DeLorean becomes the first American constructor in Airspeeder, where piloted electric aircraft race each other. The aircraft design and pilots haven't been revealed yet.",
+   "spec": "2026–27 season starts in November",
+   "why": "Flying-car racing is being used to test tech that could one day power air taxis.",
+   "points": [
+    "DeLorean is the first American constructor in Airspeeder.",
+    "Races use piloted electric aircraft with AI-assisted safety systems.",
+    "The 2026–27 season starts in November.",
+    "DeLorean hasn't shown its aircraft or named pilots yet."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/auto/delorean-enters-worlds-first-electric-flying-car-racing-league",
+   "date": "2026-10-17",
+   "id": "delorean-airspeeder",
+   "photo": "https://cdn.mos.cms.futurecdn.net/WsoJXMBF9RXMTcKF36JENG-1920-80.jpg"
+  },
+  {
+   "cat": "cyprus",
+   "title": "Cyprus pushes to delay the EU carbon charge on fuel and heating",
+   "dek": "ETS2 would put a carbon price on road fuel and heating from 2028. Cyprus, Greece, Italy and others want it pushed back, and Christodoulides says the Commission is listening.",
+   "spec": "Due to start 2028",
+   "why": "If ETS2 goes ahead, petrol, diesel and heating in Cyprus are likely to cost more from 2028.",
+   "points": [
+    "ETS2 puts a carbon price on fuel for cars and heating, starting in 2028.",
+    "Cyprus, Greece, Italy and the Visegrad countries want it delayed.",
+    "President Christodoulides says the Commission understands the need to postpone it.",
+    "One party leader claims existing carbon charges already make up a fifth of power bills."
+   ],
+   "source": "Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/10/16/commission-has-grasped-need-to-postpone-ets2-christodoulides-says",
+   "date": "2026-10-16",
+   "id": "ets2-cyprus-delay",
+   "photo": "https://cyprus-mail.com/wp-content/uploads/2025/11/2025-11-04T165401Z_1333441273_RC2ONFA88BJW_RTRMADP_3_UKRAINE-CRISIS-EU-FUNDING.jpg"
+  },
+  {
+   "cat": "cyprus",
+   "title": "France and Germany want to soften the EU's 2035 petrol and diesel ban",
+   "dek": "Their plan would require a 90% cut in carmakers' CO2 by 2035 instead of 100%, leaving room for some combustion cars. Other EU countries and Parliament still have to agree.",
+   "spec": "90% CO2 cut instead of 100%",
+   "why": "It could decide whether you can still buy a new petrol or hybrid car in the EU after 2035.",
+   "points": [
+    "The current plan effectively bans new petrol and diesel cars from 2035.",
+    "France and Germany want a 90% CO2 cut instead of 100%, leaving room for some combustion cars.",
+    "Cars already on the road would not be banned.",
+    "Other EU countries and the European Parliament still need to agree."
+   ],
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/16/france-and-germany-strike-car-industry-deal-linking-2035-engine-rules-to-made-in-europe-pu",
+   "date": "2026-10-16",
+   "id": "eu-2035-car-rules",
+   "photo": "https://images.euronews.com/articles/stories/09/95/47/02/1200x675_cmsv2_b3d8120b-90ac-5dd7-9ffe-feeb90cc5718-9954702.jpg"
+  },
+  {
+   "cat": "cyprus",
+   "title": "EU leaders want a joint plan to bring energy prices down",
+   "dek": "At last week's summit they asked Brussels for short-term help for households and businesses and floated buying energy together. Nobody expects a quick deal, and diesel is set to stay expensive into 2027.",
+   "spec": "Diesel tight into 2027 (IEA)",
+   "why": "Cyprus has some of the EU's highest electricity prices, so any EU-wide help could lower your bills.",
+   "points": [
+    "Leaders asked Brussels for short-term support for households and businesses.",
+    "Ideas include extra aid for the hardest-hit sectors and buying energy jointly.",
+    "Greece's PM said not to expect a quick deal.",
+    "The IEA expects diesel to stay expensive into 2027."
+   ],
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/16/eu-leaders-demand-joint-action-to-tackle-soaring-energy-prices",
+   "date": "2026-10-16",
+   "id": "eu-energy-summit",
+   "photo": "https://images.euronews.com/articles/stories/09/95/25/07/1200x675_cmsv2_1f9ad5e0-e2f2-5b44-911c-839daa08617d-9952507.jpg"
+  },
+  {
+   "cat": "news",
+   "title": "Macron condemns rioting as protests spread across France",
+   "dek": "Student protests over school funding, joined by the Gilets Jaunes, turned violent on Saturday with about 2,400 arrests. No state of emergency has been declared.",
+   "why": "France is a major EU economy, and the unrest is driven by the same living-cost pressures felt across Europe.",
+   "points": [
+    "It started with student blockades over school funding, then the Gilets Jaunes joined over costs and fuel prices.",
+    "Saturday saw some of the worst urban violence in years: about 2,400 arrests and around 1,000 police hurt.",
+    "Macron condemned the rioting but did not declare a state of emergency or curfew."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+   "date": "2026-10-18",
+   "id": "france-unrest",
+   "photo": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad519db-1792350683.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "lifestyle",
+   "title": "This week's menswear: NOMOS, Loro Piana, Crockett & Jones",
+   "dek": "A watch, knitwear and shoes from the week's best new releases.",
+   "why": "A shortcut to the week's best new clothes and accessories.",
+   "points": [
+    "Picks from NOMOS Glashütte, Loro Piana, Sirplus, Emma Willis and Crockett & Jones."
+   ],
+   "source": "The Gentleman's Journal",
+   "url": "https://www.thegentlemansjournal.com/article/best-menswear-products/",
+   "date": "2026-10-13",
+   "id": "gj-menswear-picks",
+   "photo": "https://cdn.sanity.io/images/vxy259ii/production/6b3526c9cd3c3da1d4adbfbde4c2343d826c60a8-5625x3750.jpg?rect=0,406,5625,2939&w=1200&h=627&fit=crop&auto=format"
+  },
+  {
+   "cat": "tech",
+   "title": "GTA 6's launch trailer is out, captured on a standard PS5",
+   "dek": "Rockstar's final trailer is mostly cinematic, with Jason and Lucia front and centre. Justice wrote the whole score, and the game is about a month away. PC is rumoured for early 2027.",
+   "spec": "$79.99 pre-order · 30 fps on console",
+   "why": "GTA 6 is the biggest game release in years, and it's now about a month away.",
+   "points": [
+    "The launch trailer is mostly cinematic, featuring Jason and Lucia.",
+    "All footage was captured on a standard PS5; the game runs at 30 fps on console.",
+    "Electronic duo Justice wrote the full score.",
+    "Pre-orders are $79.99. A PC version is rumoured for early 2027."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/gaming/new-trailer-for-gta-6-is-here-and-entirely-captured-on-ps5-not-even-ps5-pro",
+   "date": "2026-10-15",
+   "id": "gta6-launch-trailer",
+   "photo": "https://cdn.mos.cms.futurecdn.net/Ye79NrTkCXfRpU4HbFhFNQ-1920-80.jpg"
+  },
+  {
+   "cat": "bikes",
+   "title": "Harley's cheapest-ever bike, the Sprint, is nearly here",
+   "dek": "Harley-Davidson's new entry-level model is close to its global reveal.",
+   "why": "A cheaper Harley could bring the brand within reach of newer riders.",
+   "points": [
+    "The Sprint will be Harley-Davidson's most affordable bike.",
+    "Its global reveal is close."
+   ],
+   "source": "Visordown",
+   "url": "https://www.visordown.com/news/new-harley-davidson-sprint-edges-closer-global-reveal",
+   "date": "2026-10-15",
+   "id": "harley-sprint",
+   "photo": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-15t093624.271.png?width=1600&aspect_ratio=16:9"
+  },
+  {
+   "cat": "bikes",
+   "title": "Royal Enfield's Himalayan 750 spotted almost ready",
+   "dek": "The bigger twin-cylinder Himalayan, on Royal Enfield's new 750 platform, has been seen in near-final form ahead of its EICMA reveal.",
+   "spec": "EICMA, Milan · 5–8 Nov",
+   "why": "The Himalayan is one of the best-value adventure bikes, and a twin-cylinder version would take on bigger, pricier rivals.",
+   "points": [
+    "Built on Royal Enfield's new 750cc twin-cylinder platform.",
+    "Spotted in near-final form, so the design is close to done.",
+    "Its official reveal is expected at EICMA in Milan, 5–8 November."
+   ],
+   "source": "Visordown",
+   "url": "https://www.visordown.com/news/royal-enfield-himalayan-750-spotted-final-pre-launch-form",
+   "date": "2026-10-08",
+   "id": "himalayan-750-spotted",
+   "photo": "https://www.visordown.com/sites/default/files/2026-06/royal-enfield-himalayan-450c.jpeg?width=1600&aspect_ratio=16:9"
+  },
+  {
+   "cat": "bikes",
+   "title": "Honda's Rebel 500 gets E-Clutch for 2027",
+   "dek": "The cruiser adds Honda's clutchless-shifting system and a round 3.5-inch colour screen.",
+   "why": "E-Clutch lets you ride without touching the clutch lever, which makes an easy beginner bike even easier.",
+   "points": [
+    "The 2027 Rebel 500 adds Honda's E-Clutch system.",
+    "It also gets a round 3.5-inch colour screen."
+   ],
+   "source": "Visordown",
+   "url": "https://www.visordown.com/news/honda-cmx500-becomes-newest-e-clutch-model-part-rebel-evolution",
+   "date": "2026-10-07",
+   "id": "honda-rebel-eclutch",
+   "photo": "https://www.visordown.com/sites/default/files/2026-10/588183_27ym_honda_cmx500_rebel.jpg?width=1600&aspect_ratio=16:9"
+  },
+  {
+   "cat": "gear",
+   "title": "Hublot remakes its very first watch in solid gold",
+   "dek": "The Classic Fusion Tributo grows to 38mm and swaps quartz for an in-house automatic movement, on Hublot's signature black rubber strap.",
+   "spec": "38 mm · 60 h reserve · £23,600",
+   "why": "It's a modern take on the watch that started Hublot's rubber-strap-and-gold style.",
+   "points": [
+    "Case grows from 36 mm to 38 mm, in yellow or white gold.",
+    "Swaps the original's quartz for an in-house automatic movement with 60 hours of reserve.",
+    "Black rubber strap and a see-through sapphire caseback.",
+    "£23,600 / €30,200."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/luxury/watches/hublots-classic-fusion-tributo-is-a-golden-reimagining-of-its-first-ever-watch",
+   "date": "2026-10-15",
+   "id": "hublot-classic-fusion-tributo",
+   "photo": "https://cdn.mos.cms.futurecdn.net/LzxbweXr8rfGJwUjCrSfTR-1280-80.jpg"
+  },
+  {
+   "cat": "news",
+   "title": "Kenya confirms its eighth Ebola case",
+   "dek": "The new patient was likely exposed to the country's first case, as a regional outbreak widens.",
+   "points": [
+    "Kenya has confirmed its eighth case.",
+    "The new patient was likely exposed to the country's first confirmed case.",
+    "The outbreak is spreading across the region."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak",
+   "date": "2026-10-19",
+   "id": "kenya-ebola",
+   "photo": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26280382243949-1792367191.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "lifestyle",
+   "title": "Klättermusen's sci-fi-looking freeride kit",
+   "dek": "The Swedish brand's first collection made for freeride skiing and snowboarding uses recycled fabrics, roomier cuts and built-in RECCO reflectors.",
+   "spec": "Launched 15 Oct",
+   "why": "It shows how serious ski kit is getting greener without losing performance.",
+   "points": [
+    "Klättermusen's first collection made for freeride skiing and snowboarding.",
+    "Outer fabrics and insulation are 100% recycled, with a fluorocarbon-free water-repellent finish.",
+    "Built-in RECCO reflectors help rescuers find you.",
+    "Roomier cuts to fit layers underneath."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/active/outerwear/this-swedish-outdoor-specialists-futuristic-new-outerwear-collection-looks-straight-out-of-a-sci-fi-film-but-theres-serious-tech-underneath",
+   "date": "2026-10-15",
+   "id": "klattermusen-signal",
+   "photo": "https://cdn.mos.cms.futurecdn.net/vwWkUJqzJtcnRcDbcTWvpX-1600-80.jpg"
+  },
+  {
+   "cat": "film",
+   "title": "Daniel Craig plays the Magician in Netflix's Narnia",
+   "dek": "The Magician's Nephew gets a cinema release before it streams, with Emma Mackey as the White Witch.",
+   "spec": "In cinemas February 2027",
+   "points": [
+    "Daniel Craig plays the Magician; Emma Mackey is the White Witch.",
+    "A Netflix film that opens in cinemas first, in February 2027.",
+    "Streaming date not announced yet."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/entertainment/streaming/forget-knives-out-daniel-craigs-next-movie-is-a-fantasy-romp-for-the-whole-family",
+   "date": "2026-10-16",
+   "id": "narnia-magicians-nephew",
+   "photo": "https://cdn.mos.cms.futurecdn.net/m2EtnbwLutmumYgRkYbnca-1920-80.jpg"
+  },
+  {
+   "cat": "lifestyle",
+   "title": "How to dress for autumn, according to New & Lingwood",
+   "dek": "The Jermyn Street outfitter on tailoring and knitwear for the colder months.",
+   "why": "A quick guide to dressing well as the weather turns.",
+   "points": [
+    "The London outfitter shares its rules for autumn tailoring.",
+    "Covers knitwear and layering for colder months."
+   ],
+   "source": "The Gentleman's Journal",
+   "url": "https://www.thegentlemansjournal.com/article/the-new-rules-of-autumn-dressing-according-to-new-lingwood/",
+   "date": "2026-10-13",
+   "id": "new-lingwood-autumn",
+   "photo": "https://cdn.sanity.io/images/vxy259ii/production/f78a104dfaddfa208dcdcdd439c3d3aa113d1877-5625x3750.jpg?rect=0,406,5625,2939&w=1200&h=627&fit=crop&auto=format"
+  },
+  {
+   "cat": "bikes",
+   "title": "Norton's first single-cylinder roadster debuts at EICMA",
+   "dek": "The TVS-owned British brand will show a new 450cc roadster in Milan, the first bike on a new platform that sits below the Atlas and Manx. Sales are expected in the second half of 2027.",
+   "spec": "450cc single · ~40–45 hp (estimated)",
+   "why": "A 450cc single is the most popular kind of new bike right now, and Norton has never sold one in modern times.",
+   "points": [
+    "Debuts at EICMA in Milan in November.",
+    "Estimated 40–45 hp from a liquid-cooled single with a six-speed gearbox (not confirmed).",
+    "First bike on a new platform, below the Atlas twin and the V4 Manx.",
+    "Built by owner TVS in India; on sale in the second half of 2027."
+   ],
+   "source": "Autocar India",
+   "url": "https://www.autocarindia.com/bike-news/exclusive-new-450cc-class-single-cylinder-norton-to-debut-at-eicma-2026-441079",
+   "date": "2026-10-19",
+   "id": "norton-450-single",
+   "photo": "https://asset.autocarindia.com/static/news/images/20261019_052028_09f39a70.jpeg"
+  },
+  {
+   "cat": "tech",
+   "title": "Nothing's next launch might be smart glasses",
+   "dek": "Carl Pei's company looks set to step beyond phones and earbuds. Here's what's known so far.",
+   "why": "Nothing is known for bold designs, so its first glasses could be an interesting rival to Meta's.",
+   "points": [
+    "Nothing's next product is expected to be something other than a phone or audio device.",
+    "Reports point to smart glasses."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/vr/nothing-smart-glasses-what-we-know-so-far",
+   "date": "2026-10-14",
+   "id": "nothing-smart-glasses",
+   "photo": "https://cdn.mos.cms.futurecdn.net/eE9eVtz32AfCts28Q2MxuB-1920-80.jpg"
+  },
+  {
+   "cat": "news",
+   "title": "Pope Leo greeted by crowds after lung cancer surgery",
+   "dek": "It was his first major public appearance since the operation.",
+   "points": [
+    "Pope Leo was greeted by crowds.",
+    "It was his first major appearance since lung cancer surgery."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery",
+   "date": "2026-10-19",
+   "id": "pope-first-appearance",
+   "photo": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-18T103842Z_175823004_RC2M5OAVSP80_RTRMADP_3_POPE-HEALTH-PRAYER-1792379289.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "cars",
+   "title": "Porsche's Mission S is a mid-engined supercar, and it isn't electric",
+   "dek": "Revealed in New York, the Mission S concept previews a car that would sit above the 911. Porsche hasn't shared engine or power figures yet, and the production version could look different.",
+   "spec": "Concept · price guesses start near £200k",
+   "why": "Porsche hasn't had a model above the 911 since the 918 Spyder, and this one keeps a combustion engine while rivals go electric.",
+   "points": [
+    "Shown as a concept in New York, so the production car may look different.",
+    "Mid-engined and not electric. Porsche hasn't confirmed the engine or power.",
+    "It would sit above the 911 in Porsche's range.",
+    "No price or launch date yet; early guesses start around £200,000."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/auto/mission-s-revealed-this-new-porsche-supercar-isnt-electric",
+   "date": "2026-10-16",
+   "lead": true,
+   "id": "porsche-mission-s",
+   "photo": "https://cdn.mos.cms.futurecdn.net/jiPjWFFSqZLvijGAtuNNJL-1920-80.jpg"
+  },
+  {
+   "cat": "tech",
+   "title": "RedMagic 12 Pro: a liquid-cooled gaming phone with a giant battery",
+   "dek": "It runs Qualcomm's newest chip with RGB liquid cooling built in. Global launch is expected on 3 November, and the price should undercut most flagships.",
+   "spec": "8,400 mAh · 120 W wired · from ~$1,040 in China",
+   "why": "It packs flagship gaming power and a huge battery for much less than most top phones.",
+   "points": [
+    "Qualcomm Snapdragon 8 Elite Extreme Gen 6 chip.",
+    "8,400 mAh battery with 120 W wired and 80 W wireless charging.",
+    "Built-in RGB liquid cooling to keep it fast during long gaming sessions.",
+    "Starts at about $1,040 in China; global launch expected 3 November."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/android-phones/redmagic-12-pro-is-a-high-end-hellcat-with-a-mid-range-price-8-400mah-battery-sd-8-elite-extreme-gen-6-and-liquid-cooling",
+   "date": "2026-10-16",
+   "id": "redmagic-12-pro",
+   "photo": "https://cdn.mos.cms.futurecdn.net/cZ58UvAmFu2RQDWKurMxuV-1920-80.jpg"
+  },
+  {
+   "cat": "cars",
+   "title": "Rivian built a real Ghostbusters car on its R1S",
+   "dek": "The Ecto-R1 is a Halloween tie-in with Sony Pictures, complete with roof rack, lights and radar dish. Owners also get a themed over-the-air update with Ghostbusters lights and sounds until 2 November.",
+   "spec": "Based on the Rivian R1S",
+   "why": "A fun one: a real, drivable Ghostbusters car, and a themed update for Rivian owners.",
+   "points": [
+    "Built on the Rivian R1S electric SUV, with the classic Ecto-1 look: white paint, red graphics, roof lights and a radar dish.",
+    "A Halloween tie-in with Sony Pictures.",
+    "Rivian owners get a Ghostbusters lights-and-sounds software update until 2 November.",
+    "The cars are for promotional events; there's no word on selling them."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/auto/i-cant-describe-how-badly-i-want-this-new-ev-ghostbusters-car",
+   "date": "2026-10-18",
+   "id": "rivian-ecto-r1",
+   "photo": "https://cdn.mos.cms.futurecdn.net/28W8W5fnbEkYfDvgTHNNpS-2311-80.jpg"
+  },
+  {
+   "cat": "news",
+   "title": "Trump defends easing sanctions on Russia",
+   "dek": "The US president justified the move and criticised Ukraine's Volodymyr Zelenskyy.",
+   "why": "Sanctions on Russia affect energy markets and the war in Ukraine, both of which shape prices in Europe.",
+   "points": [
+    "Trump defended easing some US sanctions on Russia.",
+    "He also criticised Ukraine's president, Volodymyr Zelenskyy."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
+   "date": "2026-10-19",
+   "id": "russia-sanctions-relief",
+   "photo": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26078614880785-1785217104.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "cars",
+   "title": "The tiny two-seat Smart is back, now fully electric",
+   "dek": "The new Smart #2 is a proper city car again, with a Brabus version on the way. UK sales start next year.",
+   "spec": "205 mi · 82 hp · 10–80% in <20 min · under £20k",
+   "why": "A small, cheap electric two-seater is exactly the kind of car that suits tight city streets and short trips.",
+   "points": [
+    "Two doors, two seats, fully electric.",
+    "35.8 kWh battery for up to 205 miles of range.",
+    "60 kW (82 hp) motor; fast-charges from 10 to 80% in under 20 minutes.",
+    "Expected under £20,000 in the UK, with sales from next year. A Brabus version is planned."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/auto/electric-vehicles/the-little-smart-car-is-back-as-a-fully-electric-model-and-theres-a-brabus-version",
+   "date": "2026-10-15",
+   "id": "smart-2-ev",
+   "photo": "https://cdn.mos.cms.futurecdn.net/qYXFUkdLm5E7bajhACYwNC-1920-80.jpg"
+  },
+  {
+   "cat": "gear",
+   "title": "Sony's new flagship Walkmans are back for serious listeners",
+   "dek": "Two new hi-res players, the top one with a gold-plated copper body and Kimber Kable wiring inside. Pre-orders are open now.",
+   "spec": "35 h battery · from £2,099 · ships 27 Nov",
+   "why": "These are some of the best dedicated music players you can buy, for people who want better sound than a phone.",
+   "points": [
+    "Two models: the WM1AM3 and the top WM1ZM3.",
+    "The ZM3 has a gold-plated copper body with Kimber Kable wiring inside.",
+    "Hi-res and DSD playback, a 5.5-inch screen and up to 35 hours of battery.",
+    "From £2,099 / €2,499; shipping starts 27 November."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/audio/forget-the-cd-revival-sonys-new-walkman-is-what-audiophiles-want",
+   "date": "2026-10-16",
+   "id": "sony-walkman-wm1-m3",
+   "photo": "https://cdn.mos.cms.futurecdn.net/ZvgRQ35NWZgyRSKe9MnsxT-2560-80.jpg"
+  },
+  {
+   "cat": "lifestyle",
+   "title": "Property of the week: a Grade I estate in Leicestershire",
+   "dek": "Stapleford Park, a historic country estate, is on the market.",
+   "spec": "£18 million",
+   "points": [
+    "A Grade I listed country estate in Leicestershire, England.",
+    "On the market for £18 million."
+   ],
+   "source": "The Gentleman's Journal",
+   "url": "https://www.thegentlemansjournal.com/article/property-of-the-week-stapleford-park/",
+   "date": "2026-10-13",
+   "id": "stapleford-park",
+   "photo": "https://cdn.sanity.io/images/vxy259ii/production/7d113afbf1a98e207a15d6edbe9ec792211cdaca-5625x3750.jpg?rect=0,406,5625,2939&w=1200&h=627&fit=crop&auto=format"
+  },
+  {
+   "cat": "film",
+   "title": "Street Fighter wins the weekend box office",
+   "dek": "The video-game adaptation opened at No. 1 in the US, ahead of new horror You Can See Everything. Last week's winner, Other Mommy, dropped to third.",
+   "spec": "$31M opening weekend",
+   "why": "A big win for video-game movies, which are now a reliable box-office draw.",
+   "points": [
+    "Opened at No. 1 in the US with about $31 million.",
+    "Horror film You Can See Everything came second with about $15 million.",
+    "Whalefall and a new Sense and Sensibility also opened in the top five.",
+    "Last week's No. 1, Other Mommy, dropped to third."
+   ],
+   "source": "The Numbers",
+   "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/16",
+   "date": "2026-10-18",
+   "id": "street-fighter-box-office"
+  },
+  {
+   "cat": "gear",
+   "title": "Suunto's titanium Race 3S goes longer on GPS",
+   "dek": "A lighter titanium sports watch that Suunto says lasts much longer with GPS running than the model it replaces.",
+   "spec": "+40% GPS battery life",
+   "why": "Longer GPS battery means fewer charges for runners and hikers.",
+   "points": [
+    "A titanium sports watch from Suunto.",
+    "Suunto says GPS battery life is about 40% longer."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/active/fitness-trackers/suunto-race-3s-launch-1026",
+   "date": "2026-10-15",
+   "id": "suunto-race-3s",
+   "photo": "https://cdn.mos.cms.futurecdn.net/pxuPd3yFb9UV52ryri3rRn-1920-80.jpg"
+  },
+  {
+   "cat": "bikes",
+   "title": "Triumph teases new Tiger 900, Tiger 1200 and Street Triple for 2027",
+   "dek": "Three big updates are coming, plus new A2-licence-friendly Bonneville models.",
+   "why": "The Tiger 900 and Street Triple are two of Triumph's best sellers, so new versions matter for anyone shopping mid-size bikes.",
+   "points": [
+    "Triumph has teased new 2027 versions of the Tiger 900, Tiger 1200 and Street Triple.",
+    "New A2-licence-friendly Bonneville models are coming too.",
+    "Full details are expected at the launch."
+   ],
+   "source": "Visordown",
+   "url": "https://www.visordown.com/news/triumph-confirms-new-street-triple-tiger-900-and-1200-2027",
+   "date": "2026-10-06",
+   "id": "triumph-2027-range",
+   "photo": "https://www.visordown.com/sites/default/files/2026-10/triumph-new-models_my27_021.jpg?width=1600&aspect_ratio=16:9"
+  },
+  {
+   "cat": "cyprus",
+   "title": "Four Central European states ask the EU to slow its Russian energy phase-out",
+   "dek": "Poland, Czechia, Slovakia and Hungary want more time under the EU's plan to stop buying Russian energy.",
+   "why": "How fast the EU drops Russian energy affects gas and fuel prices across the bloc, Cyprus included.",
+   "points": [
+    "Poland, Czechia, Slovakia and Hungary want more time to phase out Russian energy.",
+    "They're asking Brussels to loosen the rules."
+   ],
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/19/visegrad-four-urge-brussels-to-ease-russian-energy-phase-out-rules",
+   "date": "2026-10-19",
+   "id": "v4-russian-energy",
+   "photo": "https://images.euronews.com/articles/stories/09/95/68/47/1200x675_cmsv2_9956045b-4598-5654-948d-59dc6f2223a7-9956847.jpg"
+  },
+  {
+   "cat": "cyprus",
+   "title": "Eight firms bid to finish the stalled Vasiliko gas terminal",
+   "dek": "The terminal is meant to bring cheaper gas for electricity, but after €300m spent it still isn't running. Gas-fired power isn't expected before 2030.",
+   "spec": "€180m to finish · gas power ~2030",
+   "why": "Without gas, Cyprus keeps making electricity from expensive oil, which is a big reason bills are high.",
+   "points": [
+    "Eight companies want the job of finishing the terminal.",
+    "About €300 million has already been spent, and finishing it is estimated at €180 million.",
+    "Even with a contract by summer 2027, gas power isn't expected before 2030."
+   ],
+   "source": "Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/10/18/vasiliko-eight-interested-contractors-but-how-many-can-actually-complete-the-project",
+   "date": "2026-10-18",
+   "id": "vasiliko-lng",
+   "photo": "https://cyprus-mail.com/wp-content/uploads/2026/04/comment-ellinas-main-Various-developments-support-bringing-back-the-idea-of-an-LNG-export-plant-at-Vasilikos.jpg"
+  },
+  {
+   "cat": "lifestyle",
+   "title": "Nine hotels for escaping winter",
+   "dek": "Warm-weather and cosy-cold picks for the months ahead.",
+   "points": [
+    "Nine hotels picked for getting away during winter."
+   ],
+   "source": "The Gentleman's Journal",
+   "url": "https://www.thegentlemansjournal.com/article/hotel-hot-list-the-art-of-escaping-winter/",
+   "date": "2026-10-07",
+   "id": "winter-hotels",
+   "photo": "https://cdn.sanity.io/images/vxy259ii/production/dc65f585c96f5461875dd03893df5db791c8fbf7-5280x3956.jpg?rect=0,599,5280,2759&w=1200&h=627&fit=crop&auto=format"
+  },
+  {
+   "cat": "tech",
+   "title": "Xbox Nano is a smaller controller built for cloud gaming",
+   "dek": "Microsoft's new compact pad is aimed at playing Xbox Cloud Gaming on phones, tablets and TVs without a console.",
+   "why": "Cloud gaming lets you play Xbox games without a console, and a smaller pad makes that easier on the go.",
+   "points": [
+    "A new, more compact Xbox controller.",
+    "Designed for Xbox Cloud Gaming on phones, tablets and TVs."
+   ],
+   "source": "T3",
+   "url": "https://www.t3.com/tech/gaming-accessories/xbox-nano-is-the-new-smaller-controller-thats-perfect-for-xbox-cloud-gaming",
+   "date": "2026-10-14",
+   "id": "xbox-nano",
+   "photo": "https://cdn.mos.cms.futurecdn.net/dbXBguxS3U6E3VouLbf2EA-1280-80.jpg"
+  }
+ ]
+}
