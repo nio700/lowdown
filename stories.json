@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:40:00+03:00",
+ "updated": "2026-10-19T21:45:00+03:00",
  "stories": [
   {
    "cat": "gear",
@@ -704,34 +704,33 @@
   },
   {
    "cat": "cars",
-   "title": "Porsche's Mission S is a mid-engined supercar, and it isn't electric",
-   "dek": "Revealed in New York, the Mission S concept previews a car that would sit above the 911. Porsche hasn't shared engine or power figures yet, and the production version could look different.",
-   "spec": "Concept · price guesses start near £200k",
+   "title": "Porsche's Mission S: a mid-engined supercar to sit above the 911",
+   "dek": "Porsche says it's a production model, not a one-off, and it has a combustion engine and an old-school analogue cabin.",
+   "spec": "Mid-engined · above the 911 · engine TBC",
    "why": "Porsche hasn't had a model above the 911 since the 918 Spyder, and this one keeps a combustion engine while rivals go electric.",
    "points": [
-    "Shown as a concept in New York, so the production car may look different.",
-    "Mid-engined and not electric. Porsche hasn't confirmed the engine or power.",
-    "It would sit above the 911 in Porsche's range.",
-    "No price or launch date yet; early guesses start around £200,000."
+    "Porsche plans it as a permanent model above the 911, not a limited special.",
+    "The engine hasn't been revealed; Top Gear speculates about a flat-eight.",
+    "The cabin is deliberately analogue: dials, rotary switches and no big touchscreen.",
+    "No price or launch date yet."
    ],
-   "source": "T3",
-   "url": "https://www.t3.com/auto/mission-s-revealed-this-new-porsche-supercar-isnt-electric",
-   "date": "2026-10-16",
-   "lead": true,
+   "source": "Top Gear",
+   "url": "https://www.topgear.com/car-news/supercars/mission-accepted-meet-stunning-new-mid-engined-porsche-mission-s",
+   "date": "2026-10-15",
    "id": "porsche-mission-s",
-   "photo": "https://cdn.mos.cms.futurecdn.net/jiPjWFFSqZLvijGAtuNNJL-1920-80.jpg",
+   "photo": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/c149b026573089e10069fd87245b0863/CC27X05IX0009_sRGB_072dpi.jpg?w=1280&h=720",
    "body": [
     {
      "h": "What's happening",
-     "p": "Porsche has shown the Mission S, a concept for a new mid-engined supercar that would sit above the 911 as the brand's flagship. It was unveiled in New York, and unlike most recent Porsche concepts it isn't electric."
+     "p": "Porsche has revealed the Mission S, a mid-engined supercar that will become a permanent part of its range above the 911. It's been shown in New York and spotted on the city's streets, and it keeps a combustion engine."
     },
     {
      "h": "The background",
-     "p": "Porsche's halo cars have always been rare: the Carrera GT in the mid-2000s and the hybrid 918 Spyder a decade later. Since then the 911 has been the top of the range, while the brand's big bets went into electric cars like the Taycan. Keeping a combustion engine here is a sign that Porsche thinks buyers at this level still want one."
+     "p": "Porsche's halo cars have always been rare: the Carrera GT in the mid-2000s and the hybrid 918 Spyder a decade later. Since then the 911 has been the top sports car, while Porsche's big bets went into electric models. With profits down sharply in 2025, a petrol flagship is a statement. The design borrows from Porsche legends like the 959, Carrera GT and the 917 racer, whose cooling fan it echoes, and the interior swaps screens for proper dials and switches."
     },
     {
      "h": "What happens next",
-     "p": "Porsche hasn't said what engine it uses, how powerful it is, or when it might go on sale. Concepts often change before production, so treat the design as a preview. Early estimates put the price somewhere above £200,000."
+     "p": "Porsche hasn't announced the engine, power, price or on-sale date. Top Gear thinks a flat-eight is possible. Expect it to cost well above any 911 when details arrive."
     }
    ]
   },
@@ -1273,6 +1272,102 @@
     {
      "h": "What happens next",
      "p": "Standouts include CW&T's titanium Little Scissors, which fold down to 62 mm, and Nimble's power bank that splits in two so you can share it. Prices are in US dollars. See all ten picks below."
+    }
+   ]
+  },
+  {
+   "id": "tesla-roadster",
+   "cat": "cars",
+   "lead": true,
+   "date": "2026-10-16",
+   "source": "Top Gear",
+   "url": "https://www.topgear.com/car-news/electric/tesla-roadster-has-finally-landed-thrusters-0-60mph-059s-and-flight",
+   "photo": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/86cf41f92de36572738d34442fd53f13/_B8A5790.jpg?w=1280&h=720",
+   "title": "The Tesla Roadster is finally here, with thrusters and a version that flies",
+   "dek": "Years late, Tesla's sports car arrives in four versions. The wildest uses compressed-air thrusters for a claimed 0–60 mph in 0.59 seconds, and Tesla says it can fly.",
+   "spec": "0–60 mph 0.59 s (claimed) · 310–320 mi",
+   "why": "It's the most outrageous performance claim any carmaker has made, and the first new Tesla sports car in over 15 years.",
+   "points": [
+    "Four versions: Standard, Performance, Thrust and a limited Rocket model.",
+    "The Standard car has around 1,070 bhp and should hit 60 mph in under 2 seconds.",
+    "Thrust and Rocket versions use compressed-air thrusters; the air runs out in seconds and needs refilling at a station.",
+    "Range is 310–320 miles, with 500 kW charging.",
+    "No prices or delivery dates yet."
+   ],
+   "body": [
+    {
+     "h": "What's happening",
+     "p": "Tesla has finally revealed its new Roadster, and it comes in four versions. The Standard model has around 1,070 bhp and should do 0–60 mph in under two seconds. The Performance car adds more power and fans that suck it to the road. Above those, the Thrust and Rocket versions use compressed-air thrusters to push the car regardless of tyre grip, and Tesla claims the Rocket can actually fly."
+    },
+    {
+     "h": "The background",
+     "p": "Tesla's first car was the original Roadster in 2008. This new one was first shown in 2017 with promises of record-breaking speed and a 'SpaceX package', then went quiet for years. Top Gear saw a demo rather than driving it, so most figures are Tesla's claims. The thrusters only work for a few seconds before their air tank needs refilling at a special station."
+    },
+    {
+     "h": "What happens next",
+     "p": "Tesla hasn't announced prices or delivery dates, and the gap between the cheapest and most extreme versions is expected to run into millions of dollars. Range is 310–320 miles, and fast charging goes from 15 to 80% in under 15 minutes."
+    }
+   ]
+  },
+  {
+   "id": "icaur-v27",
+   "cat": "cars",
+   "date": "2026-10-15",
+   "source": "Top Gear",
+   "url": "https://www.topgear.com/car-news/first-look/chinese-icaur-v27-coming-britain-2027-scare-defender",
+   "photo": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/187e2c2d8835773d1905debe3870044c/1.%20Hero%20iCAUR%20V27%20in%20forest.jpg?w=1280&h=720",
+   "title": "iCAUR V27: a boxy Chinese SUV taking aim at the Defender",
+   "dek": "Chery's new sub-brand brings a Defender-style five-seater to Britain in early 2027, likely for much less money.",
+   "spec": "UK early 2027 · 5 seats",
+   "why": "Chinese brands are arriving fast in Europe, and this one goes straight for one of the most desirable SUVs at a lower price.",
+   "points": [
+    "iCAUR is a sub-brand of Chery, alongside Omoda and Jaecoo.",
+    "Elsewhere it's sold with a petrol range-extender and one or two electric motors.",
+    "The UK powertrain and price haven't been confirmed."
+   ],
+   "body": [
+    {
+     "h": "What's happening",
+     "p": "Chinese carmaker Chery is bringing its iCAUR V27 to Britain in early 2027. It's a squared-off five-seat SUV whose looks are clearly aimed at the Land Rover Defender."
+    },
+    {
+     "h": "The background",
+     "p": "iCAUR is one of several brands Chery uses to sell cars outside China, alongside Omoda and Jaecoo, which have grown quickly in the UK and Europe. In other markets the V27 uses an electrified setup with a 1.5-litre petrol engine acting as a generator, and a choice of rear-wheel or four-wheel drive. Chery's UK engineering base will tune it for European roads."
+    },
+    {
+     "h": "What happens next",
+     "p": "The UK powertrain, range and price haven't been confirmed. If it arrives well below Defender money, it could tempt buyers who want the look without the cost. Chery's brands are also expanding across Europe, so it may reach other EU markets later."
+    }
+   ]
+  },
+  {
+   "id": "zenos-e10",
+   "cat": "cars",
+   "date": "2026-10-15",
+   "source": "Top Gear",
+   "url": "https://www.topgear.com/car-news/first-look/zenos-e10-has-returned-it-now-costs-ps115k",
+   "photo": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/f8a4d84eed544e037d1d3b64e7788595/Zenos2027E10-4.jpg?w=1280&h=720",
+   "title": "Zenos is back: the featherweight E10 returns, now from £115k",
+   "dek": "The British lightweight roadster is reborn with up to 380 bhp in a car weighing under 800 kg, but it costs well over double the original.",
+   "spec": "790 kg · up to 380 bhp · from £115,900",
+   "why": "Very light, very fast British sports cars are rare now, and this is a proper revival.",
+   "points": [
+    "Two versions: the E10 r2 with about 300 bhp and the E10 rZ with about 380 bhp.",
+    "The r2 weighs 790 kg; the rZ hits 62 mph in 3.2 seconds.",
+    "Prices start at £115,900, versus around £45k for the original."
+   ],
+   "body": [
+    {
+     "h": "What's happening",
+     "p": "Zenos, the small British sports-car maker that collapsed in 2017, is back with a new E10 for 2027. There are two versions: the r2 with a turbocharged 2.3-litre engine making about 300 bhp, and the range-topping rZ with a supercharged 2.0-litre making about 380 bhp."
+    },
+    {
+     "h": "The background",
+     "p": "The E10 follows the Lotus idea of adding lightness rather than power. At 790 kg the r2 has roughly 380 bhp per tonne, more than many supercars, and gets to 62 mph in 3.8 seconds; the rZ does it in 3.2. The catch is price: the original cost around £45,000, while the new one starts at £115,900."
+    },
+    {
+     "h": "What happens next",
+     "p": "The rZ costs £129,900. Zenos hasn't said how many it will build or when deliveries begin."
     }
    ]
   }
