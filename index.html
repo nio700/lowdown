@@ -168,6 +168,10 @@ button.cover-link{display:block; width:100%; padding:0; border:0; background:non
 .source-line{border-top:1px solid var(--rule); padding-top:16px; display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; color:var(--muted); font-size:14px}
 .source-line a{color:var(--muted)}
 body.reading{overflow:hidden}
+.body{display:grid; gap:10px; max-width:66ch}
+.body h3{margin:14px 0 0; font-family:var(--f-display); font-weight:800; font-stretch:112%; font-size:20px; letter-spacing:-.015em; line-height:1.2}
+.body h3:first-child{margin-top:4px}
+.body p{margin:0; font-size:17.5px; line-height:1.65}
 .picks{list-style:none; margin:0; padding:0}
 .picks li{padding-block:14px; border-top:1px solid var(--rule); display:grid; gap:4px}
 .pick-top{display:flex; justify-content:space-between; align-items:baseline; gap:16px}
@@ -366,8 +370,11 @@ body.reading{overflow:hidden}
       '<h2 id="reader-title">'+esc(s.title)+'</h2>'+
       '<p class="dek">'+esc(s.dek)+'</p>'+
       (s.spec?'<span class="spec">'+esc(s.spec)+'</span>':'')+
+      (Array.isArray(s.body) && s.body.length ? '<div class="body">'+s.body.map(function(b){
+        return (b.h?'<h3>'+esc(b.h)+'</h3>':'')+'<p>'+esc(b.p)+'</p>';
+      }).join("")+'</div>' : '')+
       (s.why?'<div class="why"><span class="mono">Why it matters</span><p>'+esc(s.why)+'</p></div>':'')+
-      (pts.length?'<div style="display:grid;gap:12px"><span class="mono" style="color:var(--muted)">Key points</span><ul class="points">'+pts.map(function(p){ return '<li>'+esc(p)+'</li>'; }).join("")+'</ul></div>':'')+
+      (pts.length?'<div style="display:grid;gap:12px"><span class="mono" style="color:var(--muted)">Quick facts</span><ul class="points">'+pts.map(function(p){ return '<li>'+esc(p)+'</li>'; }).join("")+'</ul></div>':'')+
       (Array.isArray(s.items) && s.items.length ? '<div style="display:grid;gap:4px"><span class="mono" style="color:var(--muted)">The picks · '+s.items.length+'</span><ul class="picks">'+s.items.map(function(it){
         return '<li><div class="pick-top"><span class="pick-name">'+esc(it.name)+'</span><span class="pick-price">'+esc(it.price||"")+'</span></div>'+(it.brand?'<span class="mono pick-brand">'+esc(it.brand)+'</span>':'')+(it.note?'<p>'+esc(it.note)+'</p>':'')+'</li>';
       }).join("")+'</ul></div>' : '')+
