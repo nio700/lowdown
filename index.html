@@ -168,6 +168,13 @@ button.cover-link{display:block; width:100%; padding:0; border:0; background:non
 .source-line{border-top:1px solid var(--rule); padding-top:16px; display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; color:var(--muted); font-size:14px}
 .source-line a{color:var(--muted)}
 body.reading{overflow:hidden}
+.picks{list-style:none; margin:0; padding:0}
+.picks li{padding-block:14px; border-top:1px solid var(--rule); display:grid; gap:4px}
+.pick-top{display:flex; justify-content:space-between; align-items:baseline; gap:16px}
+.pick-name{font-family:var(--f-display); font-weight:750; font-stretch:106%; font-size:19px; letter-spacing:-.01em; line-height:1.2; min-width:0}
+.pick-price{flex:none; font:500 13px/1 var(--f-mono); color:var(--accent); font-variant-numeric:tabular-nums}
+.pick-brand{color:var(--muted)}
+.picks p{margin:2px 0 0; font-size:15px; color:var(--muted)}
 
 @media (prefers-reduced-motion: reduce){ .cover-link .cover{transition:none} }
 </style>
@@ -205,7 +212,9 @@ body.reading{overflow:hidden}
     {id:"cars", name:"Cars", shelf:"<span>Cars</span>"},
     {id:"bikes", name:"Bikes", shelf:"Motor<span>bikes</span>"},
     {id:"tech", name:"Tech", shelf:"<span>Tech</span>"},
+    {id:"edc", name:"Everyday Carry", shelf:"Everyday <span>Carry</span>"},
     {id:"gear", name:"Gear & Watches", shelf:"Gear &amp; <span>Watches</span>"},
+    {id:"style", name:"Menswear & Grooming", shelf:"Menswear &amp; <span>Grooming</span>"},
     {id:"lifestyle", name:"Lifestyle", shelf:"Life<span>style</span>"},
     {id:"film", name:"Film & TV", shelf:"Film &amp; <span>TV</span>"},
     {id:"saved", name:"Saved"}
@@ -218,6 +227,8 @@ body.reading{overflow:hidden}
     bikes:{c:["#5A1E1A","#B5502B","#2A0E0C"], d:'<circle cx="92" cy="138" r="30"/><circle cx="92" cy="138" r="6"/><circle cx="232" cy="138" r="30"/><circle cx="232" cy="138" r="6"/><path d="M92 138 L136 98 L196 100 L232 138"/><path d="M136 98 L150 86 L198 84 L214 98 L196 100"/><path d="M196 100 L170 138 L118 138"/><path d="M214 98 L222 72 L240 68"/><path d="M128 92 L112 86"/><path d="M14 172 H306" opacity=".5"/>', lines:true},
     tech:{c:["#1C2463","#3D5BD9","#0C1030"], d:'<rect x="128" y="34" width="64" height="128" rx="12"/><rect x="138" y="48" width="44" height="92" rx="4" opacity=".6"/><circle cx="160" cy="150" r="3"/><path d="M212 76 A30 30 0 0 1 212 120" opacity=".8"/><path d="M226 62 A50 50 0 0 1 226 134" opacity=".55"/><path d="M108 76 A30 30 0 0 0 108 120" opacity=".8"/><path d="M94 62 A50 50 0 0 0 94 134" opacity=".55"/>'},
     gear:{c:["#4A3214","#B58337","#22170A"], d:'<rect x="138" y="18" width="44" height="40" rx="6"/><rect x="138" y="142" width="44" height="40" rx="6"/><circle cx="160" cy="100" r="50"/><circle cx="160" cy="100" r="42" opacity=".6"/><path d="M160 100 L160 70"/><path d="M160 100 L182 112"/><circle cx="160" cy="100" r="3"/><path d="M160 62 V66 M160 134 V138 M122 100 H126 M194 100 H198" /><rect x="210" y="94" width="10" height="12" rx="2"/>'},
+    edc:{c:["#26302A","#6E7F52","#121712"], d:'<path d="M56 112 L166 96 C176 95 182 100 180 108 L176 118 L58 126 Z"/><path d="M58 126 L44 128 C36 129 34 118 42 114 L56 112"/><circle cx="70" cy="118" r="3"/><path d="M90 110 L166 100" opacity=".5"/><rect x="196" y="86" width="96" height="26" rx="6"/><rect x="276" y="82" width="20" height="34" rx="4"/><path d="M220 99 H262" opacity=".6"/><circle cx="208" cy="99" r="4"/><rect x="96" y="140" width="140" height="10" rx="5" opacity=".7"/><circle cx="244" cy="145" r="6" opacity=".7"/>'},
+    style:{c:["#3B2A20","#9C6B4E","#1B120D"], d:'<path d="M120 40 L160 64 L200 40"/><path d="M120 40 L106 60 L140 82 L160 64 L180 82 L214 60 L200 40"/><path d="M152 70 L146 92 L160 168 L174 92 L168 70 Z"/><path d="M152 70 H168"/><path d="M146 92 H174" opacity=".5"/><path d="M60 150 H110 M60 150 V176 M68 150 V170 M76 150 V170 M84 150 V170 M92 150 V170 M100 150 V170 M108 150 V170" opacity=".75"/><path d="M220 160 L276 120 M232 168 L282 132 L276 120" opacity=".75"/>'},
     lifestyle:{c:["#2C3550","#8B5E6B","#141826"], d:'<path d="M78 92 H242"/><path d="M84 92 C84 128 96 140 124 140 C148 140 154 124 154 104 V92"/><path d="M166 92 V104 C166 124 172 140 196 140 C224 140 236 128 236 92"/><path d="M154 100 C158 96 162 96 166 100"/><path d="M78 92 L58 80 M242 92 L262 80"/><path d="M98 106 L116 124" opacity=".45"/><path d="M180 106 L198 124" opacity=".45"/>'},
     film:{c:["#3A1238","#8E2F4F","#1A0818"], d:'<circle cx="134" cy="96" r="52"/><circle cx="134" cy="96" r="9"/><circle cx="134" cy="66" r="13"/><circle cx="134" cy="126" r="13"/><circle cx="104" cy="96" r="13"/><circle cx="164" cy="96" r="13"/><path d="M186 96 C220 96 236 120 236 150 H296"/><rect x="236" y="138" width="60" height="26" rx="3" opacity=".7"/>'},
     cyprus:{c:["#0D3B66","#1E8AA8","#06223D"], d:'<circle cx="160" cy="78" r="22"/><g opacity=".9"><circle cx="160" cy="18" r="3"/><circle cx="190" cy="26" r="3"/><circle cx="212" cy="48" r="3"/><circle cx="220" cy="78" r="3"/><circle cx="212" cy="108" r="3"/><circle cx="190" cy="130" r="3"/><circle cx="160" cy="138" r="3"/><circle cx="130" cy="130" r="3"/><circle cx="108" cy="108" r="3"/><circle cx="100" cy="78" r="3"/><circle cx="108" cy="48" r="3"/><circle cx="130" cy="26" r="3"/></g><path d="M20 158 C50 148 70 168 100 158 S150 148 180 158 S230 168 260 158 S290 150 300 156"/><path d="M20 176 C50 166 70 186 100 176 S150 166 180 176 S230 186 260 176 S290 168 300 174" opacity=".55"/>'},
@@ -357,6 +368,9 @@ body.reading{overflow:hidden}
       (s.spec?'<span class="spec">'+esc(s.spec)+'</span>':'')+
       (s.why?'<div class="why"><span class="mono">Why it matters</span><p>'+esc(s.why)+'</p></div>':'')+
       (pts.length?'<div style="display:grid;gap:12px"><span class="mono" style="color:var(--muted)">Key points</span><ul class="points">'+pts.map(function(p){ return '<li>'+esc(p)+'</li>'; }).join("")+'</ul></div>':'')+
+      (Array.isArray(s.items) && s.items.length ? '<div style="display:grid;gap:4px"><span class="mono" style="color:var(--muted)">The picks · '+s.items.length+'</span><ul class="picks">'+s.items.map(function(it){
+        return '<li><div class="pick-top"><span class="pick-name">'+esc(it.name)+'</span><span class="pick-price">'+esc(it.price||"")+'</span></div>'+(it.brand?'<span class="mono pick-brand">'+esc(it.brand)+'</span>':'')+(it.note?'<p>'+esc(it.note)+'</p>':'')+'</li>';
+      }).join("")+'</ul></div>' : '')+
       '<div class="source-line"><span>Reported by '+esc(s.source)+(s.date?' · '+esc(when(s.date)):'')+'</span>'+saveBtn(s)+'</div>'+
       '<p class="credit" style="margin:0">Want the full piece? <a href="'+esc(safeUrl(s.url))+'" target="_blank" rel="noopener">Original article at '+esc(s.source)+'</a></p>'+
     '</article>';

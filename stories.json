@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:30:00+03:00",
+ "updated": "2026-10-19T21:40:00+03:00",
  "stories": [
   {
    "cat": "gear",
@@ -153,18 +153,52 @@
    "photo": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad519db-1792350683.jpg?resize=1920%2C1440"
   },
   {
-   "cat": "lifestyle",
-   "title": "This week's menswear: NOMOS, Loro Piana, Crockett & Jones",
-   "dek": "A watch, knitwear and shoes from the week's best new releases.",
-   "why": "A shortcut to the week's best new clothes and accessories.",
+   "cat": "style",
+   "title": "This week's menswear: a NOMOS worldtimer, Loro Piana and Crockett & Jones",
+   "dek": "The Gentleman's Journal's five standout releases this week, from a blue-dial watch to suede loafers.",
+   "why": "A quick way to see what's new and worth knowing in menswear without trawling through shops.",
    "points": [
-    "Picks from NOMOS Glashütte, Loro Piana, Sirplus, Emma Willis and Crockett & Jones."
+    "Five picks covering a watch, a winter coat, knitwear, a shirt and shoes.",
+    "Prices run from £155 for a lambswool jumper to £3,410 for the coat."
    ],
    "source": "The Gentleman's Journal",
    "url": "https://www.thegentlemansjournal.com/article/best-menswear-products/",
    "date": "2026-10-13",
    "id": "gj-menswear-picks",
-   "photo": "https://cdn.sanity.io/images/vxy259ii/production/6b3526c9cd3c3da1d4adbfbde4c2343d826c60a8-5625x3750.jpg?rect=0,406,5625,2939&w=1200&h=627&fit=crop&auto=format"
+   "photo": "https://cdn.sanity.io/images/vxy259ii/production/6b3526c9cd3c3da1d4adbfbde4c2343d826c60a8-5625x3750.jpg?rect=0,406,5625,2939&w=1200&h=627&fit=crop&auto=format",
+   "spec": "5 picks · from £155",
+   "items": [
+    {
+     "name": "Zürich Worldtimer, Midnight Blue",
+     "brand": "NOMOS Glashütte",
+     "price": "Price on request",
+     "note": "A 40 mm watch that shows the time in every world time zone."
+    },
+    {
+     "name": "Kensington Coat",
+     "brand": "Loro Piana",
+     "price": "£3,410",
+     "note": "A winter overcoat in Pecora Nera wool."
+    },
+    {
+     "name": "Raspberry Lambswool Crew Neck",
+     "brand": "Sirplus",
+     "price": "£155",
+     "note": "A bright lambswool jumper to lift a plain autumn outfit."
+    },
+    {
+     "name": "White Oxford Shirt",
+     "brand": "Emma Willis",
+     "price": "£290",
+     "note": "Cut and sewn by hand in white Oxford cotton."
+    },
+    {
+     "name": "Boston 2, Dark Oak Suede",
+     "brand": "Crockett & Jones",
+     "price": "£525",
+     "note": "A suede loafer from the Northampton shoemaker."
+    }
+   ]
   },
   {
    "cat": "tech",
@@ -299,7 +333,7 @@
    "photo": "https://cdn.mos.cms.futurecdn.net/m2EtnbwLutmumYgRkYbnca-1920-80.jpg"
   },
   {
-   "cat": "lifestyle",
+   "cat": "style",
    "title": "How to dress for autumn, according to New & Lingwood",
    "dek": "The Jermyn Street outfitter on tailoring and knitwear for the colder months.",
    "why": "A quick guide to dressing well as the weather turns.",
@@ -589,6 +623,130 @@
    "date": "2026-10-14",
    "id": "xbox-nano",
    "photo": "https://cdn.mos.cms.futurecdn.net/dbXBguxS3U6E3VouLbf2EA-1280-80.jpg"
+  },
+  {
+   "id": "gj-grooming-picks",
+   "cat": "style",
+   "date": "2026-10-13",
+   "source": "The Gentleman's Journal",
+   "url": "https://www.thegentlemansjournal.com/article/best-new-grooming-products/",
+   "title": "This week's grooming: Remington, Acqua di Parma, Hermès and more",
+   "dek": "Five new grooming picks this week, from an all-in-one trimmer to a diamond face scrub.",
+   "spec": "5 picks",
+   "why": "New grooming kit worth knowing about, picked by people who test a lot of it.",
+   "points": [
+    "Five picks: a trimmer, a cologne, a serum, a deodorant and a face scrub."
+   ],
+   "items": [
+    {
+     "name": "ONE Total Body Multi-Groomer",
+     "brand": "Remington",
+     "price": "Price on request",
+     "note": "One trimmer for beard and body."
+    },
+    {
+     "name": "Colonia Eau de Cologne",
+     "brand": "Acqua di Parma",
+     "price": "Price on request",
+     "note": "The Italian house's original cologne, first made in 1916."
+    },
+    {
+     "name": "Hyaluronic Serum",
+     "brand": "Dr. Barbara Sturm",
+     "price": "Price on request",
+     "note": "A hydrating serum based on hyaluronic acid."
+    },
+    {
+     "name": "Terre d'Hermès Deodorant Stick",
+     "brand": "Hermès",
+     "price": "£38",
+     "note": "Alcohol-free, in the Terre d'Hermès scent."
+    },
+    {
+     "name": "FS1 Crushed Diamond Face Scrub",
+     "brand": "Patricks",
+     "price": "£58",
+     "note": "Exfoliates with crushed diamond and volcanic sand."
+    }
+   ]
+  },
+  {
+   "id": "edc-new-essentials-oct",
+   "cat": "edc",
+   "date": "2026-10-07",
+   "source": "HiConsumption",
+   "url": "https://hiconsumption.com/gear/best-new-edc-gear-october-2026/",
+   "photo": "https://cdn.hiconsumption.com/wp-content/uploads/2026/10/Best-New-EDC-Gear-October-2026-0-Hero.jpg",
+   "title": "October's 10 best new everyday-carry essentials",
+   "dek": "HiConsumption's monthly EDC haul: a titanium pocket scissor, a 10-gram keychain light, a split-in-two power bank and more.",
+   "spec": "10 picks · $30–$450",
+   "why": "A shortlist of the newest pocket and bag gear, from cheap upgrades to treats.",
+   "points": [
+    "Ten new pieces of everyday carry, from a $30 keychain torch to a $450 watch.",
+    "Lots of MagSafe this month: a clip-on keyboard, a recyclable case and a sling bag with a phone mount."
+   ],
+   "items": [
+    {
+     "name": "Soundcore Space 2 Pro",
+     "brand": "Anker",
+     "price": "$200",
+     "note": "Over-ear noise-cancelling headphones with eight microphones."
+    },
+    {
+     "name": "The Helton",
+     "brand": "The James Brand",
+     "price": "$169",
+     "note": "A full-size pocket multitool with a VG-10 steel blade and aluminium sides."
+    },
+    {
+     "name": "Little Scissors",
+     "brand": "CW&T",
+     "price": "$159",
+     "note": "Titanium-handled scissors that fold down to just 62 mm."
+    },
+    {
+     "name": "E2 Pulse",
+     "brand": "Wuben",
+     "price": "$30",
+     "note": "A 10-gram keychain torch that puts out 150 lumens and charges by USB-C."
+    },
+    {
+     "name": "Group C Turbo Sport",
+     "brand": "Autodromo",
+     "price": "$450",
+     "note": "A racing-inspired analogue-digital watch in anodised aluminium."
+    },
+    {
+     "name": "Power Keyboard",
+     "brand": "Clicks",
+     "price": "$159",
+     "note": "A backlit slide-out keyboard that snaps onto MagSafe or Qi2 phones."
+    },
+    {
+     "name": "AirX",
+     "brand": "RhinoShield",
+     "price": "$63",
+     "note": "A MagSafe phone case made from a single recyclable material."
+    },
+    {
+     "name": "Sharepower",
+     "brand": "Nimble",
+     "price": "$80",
+     "note": "A 10,000 mAh power bank that splits into two halves you can share."
+    },
+    {
+     "name": "Terraforma \"Striking Gold\"",
+     "brand": "DSPTCH x Oakley",
+     "price": "$245",
+     "note": "Polarised Oakley sunglasses with a custom DSPTCH case."
+    },
+    {
+     "name": "B01 Urban Transit Sling",
+     "brand": "Aulumu",
+     "price": "$145",
+     "note": "A compact X-Pac sling bag with a detachable MagSafe phone mount."
+    }
+   ]
   }
  ]
 }
